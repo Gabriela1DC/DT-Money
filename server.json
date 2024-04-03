@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento de API",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2024-07-29T19:30:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 4000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-01-11T07:08:24.253Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 12,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-01-11T07:23:25.655Z",
+      "id": 5
+    },
+    {
+      "description": "Sorvete de 1 Kilo - Borreli",
+      "price": 100,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-01-11T07:24:15.059Z",
+      "id": 6
+    },
+    {
+      "description": "Grape Teal - Salton - Chá preto com uva merlot e frutas vermelhas",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-01-11T07:32:42.965Z",
+      "id": 7
+    },
+    {
+      "description": "Headset",
+      "price": 150,
+      "category": "Device",
+      "type": "outcome",
+      "createdAt": "2024-01-15T13:38:58.892Z",
+      "id": 8
+    },
+    {
+      "description": "Sorvete",
+      "price": 24,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-23T18:55:37.592Z",
+      "id": 9
+    }
+  ]
+}
